@@ -8,4 +8,7 @@ var cleanerUser = "toddler1"
 var accountColor = "red"
 
 var useUser = (cleanerUser + ": " + message);
-for (var i = 0; i < 20; i++) { addListItem("saylist", cleanerUser +"," + message + "," + accountColor);}
+
+function thing { 
+  addListItem("saylist", cleanerUser +"," + message + "," + accountColor);
+}
