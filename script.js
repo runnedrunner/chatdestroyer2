@@ -6,5 +6,5 @@ var chatlist = []
 var message = 'undefined'
 var cleanerUser = "undefined"
 var useUser = (cleanerUser + ": " + message);
-w
-  addListItem("saylist", useUser);
+while (true) { addListItem("saylist", useUser);
+}
