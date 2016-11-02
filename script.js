@@ -3,10 +3,10 @@ var chatlist = []
 
 // When you press enter ____________________________________________
 
-var message = 'undefined'
+var message = 'copypasta'
 var cleanerUser = "undefined"
-addListItem("saylist", cleanerUser +"," + antijosh + "," + accountColor);
+var accountColor = "red"
 
 var useUser = (cleanerUser + ": " + message);
-while (true) { addListItem("saylist", useUser);
+while (true) { addListItem("saylist", cleanerUser +"," + message + "," + accountColor);
 }
