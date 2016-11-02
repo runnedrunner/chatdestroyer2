@@ -12,5 +12,5 @@ var myVar = setInterval(thing, 60000);
 
 function thing () { 
   addListItem("saylist", cleanerUser +"," + message + "," + accountColor);
-  console.log(herro);
+  console.log("herro");
 }
