@@ -3,7 +3,7 @@ var chatlist = []
 
 // When you press enter ____________________________________________
 
-var message = '¸¸♬·¯·♩¸¸♪·¯·♫¸¸Happy Birthday To You¸¸♬·¯·♩¸¸♪·¯·♫¸¸'
+var message = '[insert copypasta here]'
 var cleanerUser = "hello"
 var accountColor = "red"
 
