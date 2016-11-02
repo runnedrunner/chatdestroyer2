@@ -8,9 +8,8 @@ var cleanerUser = "toddlerBot"
 var accountColor = "red"
 
 var useUser = (cleanerUser + ": " + message);
-var myVar = setInterval(thing, 60000);
+var myVar = setInterval(thing, 6000);
 
 function thing () { 
   addListItem("saylist", cleanerUser +"," + message + "," + accountColor);
-  console.log("herro");
 }
